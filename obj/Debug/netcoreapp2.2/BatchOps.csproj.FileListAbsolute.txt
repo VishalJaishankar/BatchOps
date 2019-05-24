@@ -1,0 +1,11 @@
+C:\Users\t-vijais\source\repos\BatchOps\bin\Debug\netcoreapp2.2\BatchOps.deps.json
+C:\Users\t-vijais\source\repos\BatchOps\bin\Debug\netcoreapp2.2\BatchOps.runtimeconfig.json
+C:\Users\t-vijais\source\repos\BatchOps\bin\Debug\netcoreapp2.2\BatchOps.runtimeconfig.dev.json
+C:\Users\t-vijais\source\repos\BatchOps\bin\Debug\netcoreapp2.2\BatchOps.dll
+C:\Users\t-vijais\source\repos\BatchOps\obj\Debug\netcoreapp2.2\BatchOps.csprojAssemblyReference.cache
+C:\Users\t-vijais\source\repos\BatchOps\obj\Debug\netcoreapp2.2\BatchOps.csproj.CoreCompileInputs.cache
+C:\Users\t-vijais\source\repos\BatchOps\obj\Debug\netcoreapp2.2\BatchOps.AssemblyInfoInputs.cache
+C:\Users\t-vijais\source\repos\BatchOps\obj\Debug\netcoreapp2.2\BatchOps.AssemblyInfo.cs
+C:\Users\t-vijais\source\repos\BatchOps\bin\Debug\netcoreapp2.2\BatchOps.pdb
+C:\Users\t-vijais\source\repos\BatchOps\obj\Debug\netcoreapp2.2\BatchOps.dll
+C:\Users\t-vijais\source\repos\BatchOps\obj\Debug\netcoreapp2.2\BatchOps.pdb
